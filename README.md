@@ -1,2 +1,32 @@
-# kusaiPortfolio
-Personal portfolio website built with React, featuring smooth, high-performance animations powered by GSAP. Designed to showcase projects, technical skills, experience, and interactive UI experiences with a focus on performance and accessibility.
+# Personal Portfolio
+
+A personal portfolio built with React and Vite, featuring smooth scroll-based animations powered by GSAP and Lenis.
+
+## Tech Stack
+
+- React
+- Vite
+- GSAP
+- Lenis (smooth scroll)
+
+## Features
+
+- Smooth, scroll-based animations
+- Fully responsive design
+- Component-based architecture
+- Interactive sections for intro, projects, and experience
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+Open `http://localhost:5173` to view it locally.
+
+### Build for production
+
+```bash
+npm run build
+```
